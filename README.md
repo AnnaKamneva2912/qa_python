@@ -6,5 +6,5 @@ def test_get_book_rating(self): проверка получения рейтин
 def test_get_books_with_specific_rating_3(self): проверка вывода книг с определенным рейтингом
 def test_get_books_rating_3(self): проверка вывода словаря 
 def test_add_book_in_favorites(self): проверка добавления книги в список избранного
-def test_get_list_of_favorites_books(self): проверка выода списка избранного
+def test_get_list_of_favorites_books(self): проверка вывода списка избранного
 def test_delete_book_from_favorites(self): удаление книги из избранного 
